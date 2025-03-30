@@ -7,7 +7,7 @@ Player made mechs retain their markings if there are textures for that (there’
 
 I highly recommend setting “Show player mech names” to “always” so the mechs you make are easy to spot.
 
-This mod is intended to be used with mech retexture mods primary “[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3013205187]Fluff's Curvaceous Underarmored Mechanoids[/url]" due to how that mod is configured.
+This mod is intended to be used with mech retexture mods primarly Fluff's Curvaceous Underarmored Mechanoids due to how that mod is configured.
 
 Compatibility:
 Any mechanoid mod using the default mech faction (This includes VFE Mechanoids)
