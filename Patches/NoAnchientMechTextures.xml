@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	 <Operation Class="PatchOperationAdd">
+                <xpath>Defs/PawnKindDef[defaultFactionType="Mechanoid"]</xpath>
+                <value>
+					        <maxGenerationAge>95</maxGenerationAge>
+                </value>
+   </Operation>
+	 <Operation Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defaultFactionType="Mechanoid"]/minGenerationAge</xpath>
+                <value>
+                  <minGenerationAge>0</minGenerationAge>
+                </value>
+   </Operation>
+</Patch>
